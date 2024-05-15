@@ -1,16 +1,29 @@
-### Hi there 👋
+# Alliah N. Barcellano
 
-<!--
-**AlliahBarcellano/AlliahBarcellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am Alliah N. Barcellano, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Systems program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **BS Information Systems**
+  New Era University
+  2021-Present
+
+## Certifications
+
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](#)  
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](#)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](#)
+- [SQL and Relational Databases 101](#)
+
+## Skill Sets
+
+- **Programming:** Java, Javascript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Contact Me
+
+- LinkedIn: [linkedin.com/in/alliah-n-barcellano-89b154291](https://www.linkedin.com/in/alliah-n-barcellano-89b154291)
+- Email: alliah.barcellano@neu.edu.ph
